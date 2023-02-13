@@ -52,7 +52,7 @@ Your window should look like something lile this :
 
 ## Step 1 : Now time to make a bar
 ---
-A Brickbreacker need a bar
+A Brick breaker need a bar
 - Find a way to create a rectangle and to draw it the previous window
 - Your bar must follow the following requirement:
     - Height = 17
@@ -94,7 +94,7 @@ use this png to represented your life
 ![image](https://user-images.githubusercontent.com/72023610/218501823-f586828d-368a-4cc2-bce8-22a13a9eef82.png)
 
 
-- Put 3 hearth on the botom left of the window
+- Put 3 hearth at the botom left of the window
 - Now when your ball collision with the bottom of your screen one of your hearth disapere
 - And When you loose all your hearth draw a loose screen
 - When you destroy all the brick you draw a win screen
