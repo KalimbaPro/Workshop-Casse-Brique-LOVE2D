@@ -52,7 +52,7 @@ Your window should look like something lile this :
 
 ## Step 1 : Now time to make a bar
 ---
-A breackDown need a bar
+A Brickbreacker need a bar
 - Find a way to create a rectangle and to draw it the previous window
 - Your bar must follow the following requirement:
     - Height = 17
@@ -99,7 +99,7 @@ use this png to represented your life
 - And When you loose all your hearth draw a loose screen
 - When you destroy all the brick you draw a win screen
 
-You now have a game the replicate the comportement of a Brickdown like this:
+You now have a game the replicate the comportement of a Brickbreacker like this:
 
 ![image](https://user-images.githubusercontent.com/72023610/218501635-5bf8d847-4e21-49e8-985a-aeccf7a9bc5a.png)
 
